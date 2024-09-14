@@ -183,12 +183,6 @@ Feel free to fork the repository and submit pull requests if you'd like to contr
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ### Contact
 
 For any questions or support, feel free to reach out via techgeeklearner@gmail.com or open an issue on GitHub.
